@@ -1,0 +1,6 @@
+{
+  "name": "cedb-user-objective-images",
+  "private": true,
+  "description": "Download a cedb.me user's completed objective images, zipped by objective type.",
+  "engines": { "node": ">=18" }
+}
